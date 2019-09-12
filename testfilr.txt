@@ -1,6 +1,0 @@
-This is new commit in git project 
-
-new line added
-
-
-123
